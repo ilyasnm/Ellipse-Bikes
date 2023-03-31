@@ -1,2 +1,2 @@
 # Ellipse-Bikes
-api.py qui contient les réponses de test partie pratique 
+Veuillez vérifier le fichier test de candidature.pdf qui contient les réponses du test théorique et le fichier API.py qui contient les réponses de la partie pratique du test. 
